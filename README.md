@@ -1,2 +1,2 @@
 # CDSquaredNotes
-*Deep Learning Kaggle 
+* Deep Learning Kaggle 
