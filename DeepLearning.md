@@ -1,6 +1,6 @@
 # Deep Learning List
 
-##### - [ ] [Notes for Deep Learning Course by Kaggle]
+##### - [ ] [Notes for Deep Learning Course by Kaggle](#kaggle-deep-learning)
 ##### - [ ] [Deep Learning with Python by Francois Chollet]
 ##### - [ ] [Deep Learning by Fast.ai]
 ##### - [ ] Neural Networks and Deep Learning from Deeplearning.ai
@@ -9,7 +9,7 @@
 ##### - [ ] Convolutional Neural Networks from Deeplearning.ai
 ##### - [ ] Sequence Models from Deeplearning.ai
  
-## [Notes on Deep Learning by Kaggle]
+## [Notes on Deep Learning by Kaggle](kaggle-deep-learning)
 
 - [ ] 1. Intro to Deep Learning and Machine Vision (#deep-learning)
 - [ ] 2. Building models from convolutions
