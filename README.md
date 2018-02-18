@@ -1,11 +1,10 @@
 # CDSquaredNotes
 
-- [Deep Learning](#Deep-learning)
+- [Deep Learning by Kaggle](#Deep-learning)
 - [Projects](#Projects)
 
 - [Machine Learning](#Courses-and-Books)
   - [ ] [Machine Learning by Kaggle]
-
 - [ ] [Notes for Deep Learning Course by Kaggle]
 - [ ] [Machine Learning by Kaggle]
 - [ ] [Data Visualizations by Kaggle]
@@ -150,3 +149,6 @@ Grover L.K.: A fast quantum mechanical algorithm for database search, Proceedin
 <a name="Courses-and-Books"></a>
 <a name="Projects"></a>
 <a name="Deep-learning"></a>
+### [Deep Learning by Kaggle] (https://www.kaggle.com/learn/deep-learning)
+
+Summary: Deep learning by Kaggle introduces concepts of Deep Learning using TensorFlow and Keras through an application based method while analyzing distinct parts.
