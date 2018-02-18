@@ -11,7 +11,7 @@
  
 ## [Notes on Deep Learning by Kaggle]
 
-- [ ] 1. Intro to Deep Learning and Machine Vision
+- [ ] 1. Intro to Deep Learning and Machine Vision 
 - [ ] 2. Building models from convolutions
 - [ ] 3. Programming in TensorFlow and Keras
 - [ ] 4. Transfer Learning 
@@ -20,7 +20,7 @@
 - [ ] 7. Deep Learning from Scratch 
 - [ ] 8. Dropout and strides for larger models
 
-## [Notes on Deep Learning with Python by Francois Chollet] (https://www.manning.com/books/deep-learning-with-python)
+## [Notes on Deep Learning with Python by Francois Chollet]
 
 Part 1: The fundamentals of Deep Learning
 - [ ] 1. What is Deep Learning? 
