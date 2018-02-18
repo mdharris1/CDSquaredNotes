@@ -1,13 +1,20 @@
 # Deep Learning List
 
 ##### - [ ] [Notes for Deep Learning Course by Kaggle](#kaggle-deep-learning)
-##### - [ ] [Deep Learning with Python by Francois Chollet]
-##### - [ ] [Deep Learning by Fast.ai]
-##### - [ ] Neural Networks and Deep Learning from Deeplearning.ai
-##### - [ ] Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization from Deeplearning.ai
-##### - [ ] Structuring Machine Learning Projects from Deeplearning.ai
-##### - [ ] Convolutional Neural Networks from Deeplearning.ai
-##### - [ ] Sequence Models from Deeplearning.ai
+
+##### - [ ] [Deep Learning with Python by Francois Chollet] (#deep-learning-python)
+
+##### - [ ] [Deep Learning by Fast.ai] (#deep-learning-fastai)
+
+##### - [ ] [Neural Networks and Deep Learning from Deeplearning.ai] (#nn-deep-learning-deeplearningai)
+
+##### - [ ] [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization from Deeplearning.ai] (#hp-deep-learning-deeplearningai)
+
+##### - [ ] [Structuring Machine Learning Projects from Deeplearning.ai] (#structuredml-deep-learning-deeplearningai)
+
+##### - [ ] [Convolutional Neural Networks from Deeplearning.ai] (#cnn-deep-learning-deeplearningai)
+
+##### - [ ] [Sequence Models from Deeplearning.ai] (#sequence-deep-learning-deeplearningai)
  
 <a name="kaggle-deep-learning"></a>
 ## [Notes on Deep Learning by Kaggle]
@@ -21,6 +28,7 @@
 - [ ] 7. Deep Learning from Scratch 
 - [ ] 8. Dropout and strides for larger models
 
+<a name="deep-learning-python"></a>
 ## [Notes on Deep Learning with Python by Francois Chollet]
 
 Part 1: The fundamentals of Deep Learning
@@ -36,6 +44,7 @@ Part 2: Deep Learning in Practice
 - [ ] 8. Generative Deep Learning 
 - [ ] 9. Conclusions
 
+<a name="deep-learning-fastai"></a>
 ## Notes on Deep Learning by Fast.ai 
 
 Part 1: Practical Deep Learning for Coders
@@ -56,6 +65,7 @@ Part 2: Cutting Edge Deep Learning For Coders
 - [ ] 13. Neural Machine Translation; Densenets/Neural Translation
 - [ ] 14. Entity Embeddings & Time Series; FC Densenets for Segmentation
 
+<a name="nn-deep-learning-deeplearningai"></a>
 ## Neural Networks and Deep Learning from Deeplearning.ai
 
 - [ ] Week 1: Introduction to deep learning
@@ -63,17 +73,20 @@ Part 2: Cutting Edge Deep Learning For Coders
 - [ ] Week 3: Shallow Neural Networks
 - [ ] Week 4: Deep Neural Networks
 
+<a name="hp-deep-learning-deeplearningai"></a>
 ## Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization from Deeplearning.ai
 
 - [ ] Week 1: Practical aspects of Deep Learning 
 - [ ] Week 2: Optimization algorithms 
 - [ ] Week 3: Hyperparameter tuning, batch Normalization and Programming Frameworks
 
+<a name="structuredml-deep-learning-deeplearningai"></a>
 ## Structuring Machine Learning Projects from Deeplearning.ai
 
 - [ ] Week 1: ML Strategy 1
 - [ ] Week 2: ML Strategy 2
 
+<a name="cnn-deep-learning-deeplearningai"></a>
 ## Convolutional Neural Networks from Deeplearning.ai
 
 - [ ] Week 1: Foundations of Convolutional Neural Networks
@@ -81,6 +94,7 @@ Part 2: Cutting Edge Deep Learning For Coders
 - [ ] Week 3: Object Detection
 - [ ] Week 4: Special applications: Face recognition & Neural style transfer
 
+<a name="sequence-deep-learning-deeplearningai"></a>
 ## Sequence Models from Deeplearning.ai
 
 - [ ] Week 1: Recurrent Neural Networks
