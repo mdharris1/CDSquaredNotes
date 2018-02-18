@@ -55,6 +55,37 @@ Part 2: Cutting Edge Deep Learning For Coders
 - [ ] 13. Neural Machine Translation; Densenets/Neural Translation
 - [ ] 14. Entity Embeddings & Time Series; FC Densenets for Segmentation
 
+## Neural Networks and Deep Learning from Deeplearning.ai
+
+- [ ] Week 1: Introduction to deep learning
+- [ ] Week 2: Neural Networks Basics
+- [ ] Week 3: Shallow Neural Networks
+- [ ] Week 4: Deep Neural Networks
+
+## Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization from Deeplearning.ai
+
+- [ ] Week 1: Practical aspects of Deep Learning 
+- [ ] Week 2: Optimization algorithms 
+- [ ] Week 3: Hyperparameter tuning, batch Normalization and Programming Frameworks
+
+## Structuring Machine Learning Projects from Deeplearning.ai
+
+- [ ] Week 1: ML Strategy 1
+- [ ] Week 2: ML Strategy 2
+
+## Convolutional Neural Networks from Deeplearning.ai
+
+- [ ] Week 1: Foundations of Convolutional Neural Networks
+- [ ] Week 2: Deep convolutional models: case studies
+- [ ] Week 3: Object Detection
+- [ ] Week 4: Special applications: Face recognition & Neural style transfer
+
+## Sequence Models from Deeplearning.ai
+
+- [ ] Week 1: Recurrent Neural Networks
+- [ ] Week 2: Natural Language Processing & Word Embeddings
+- [ ] Week 3: Sequence models & Attention mechanism
+
 <a name="deep-learning"></a>
 #### Title: Intro to Deep Learning and Machine Vision
 What you should be able to do after this lesson: 
@@ -72,7 +103,7 @@ Key takaways:
 6. Convolutions act as filters on tensors because it can pick out parts of the image. 
 7. Example: Convolutions to detect horizontal line 
 
-Relation to the boarder field: 
+Relationship to data science and computer science: 
 
 Other lessons that teach what this lesson does: 
 
