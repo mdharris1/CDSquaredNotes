@@ -2,6 +2,36 @@ This repository is a collection of notes developed from a curated list of course
 
 # CDSquaredNotes
 
+- [Deep Learning](#Deep-learning)
+- General Non-Technical Books(#General-non-technical)
+- Data Science Programming Languages(#data-science-programming-langauges)
+- Data Visualizations (#data-visualizations)
+- Big Data (#big-data)
+- Data Engineering (#data-engineering)
+- Databases (#databases)
+- Data Science Basics (#data-sceince-programming-languages)
+- Quantitative Foundations (#data-sceince-programming-languages)
+- Quantum Computing (#data-sceince-programming-languages)
+- [Machine Learning](#Courses-and-Books)
+- Statistical Machine Learning (#data-sceince-programming-languages)
+- Python (#data-sceince-programming-languages)
+- Ruby (#data-sceince-programming-languages)
+- Scala (#data-sceince-programming-languages)
+- JavaScript (#data-sceince-programming-languages)
+- SQL (#data-sceince-programming-languages)
+- Robotics (#data-sceince-programming-languages)
+- Command Line (#data-sceince-programming-languages)
+- Git and Version Control (#data-sceince-programming-languages)
+- Web Development (#data-sceince-programming-languages)
+- Exploratory Data Analysis (#data-sceince-programming-languages)
+- Data Cleaning (#data-sceince-programming-languages)
+- API (#data-sceince-programming-languages)
+- Natural Language Processing (#data-sceince-programming-languages)
+- Data Structures and Algorithms (#data-sceince-programming-languages)
+- Competitions (#data-sceince-programming-languages)
+- Chatbots (#data-sceince-programming-languages)
+- Distributed and Parallel Computing (#data-sceince-programming-languages)
+
 - General Non-Technical Books
   - [ ] The master algorithm
   - [ ] Programming Collective Intelligence
@@ -36,8 +66,6 @@ This repository is a collection of notes developed from a curated list of course
   - [ ] Applied Social Network Analysis in Python from University of Michigan on Coursera
   - [ ] R Fundamentals
   - [ ] Exploring Topics in Data Science from Dataquest
-
-- [Projects](#Projects)
   - [ ] Data Scientist Capstone
 
 - Data Visualizations 
