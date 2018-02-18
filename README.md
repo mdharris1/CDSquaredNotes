@@ -1,3 +1,5 @@
+This repository is a collection of notes developed from a curated list of courses, books, articles, and videos. 
+
 # CDSquaredNotes
 
 - General Non-Technical Books
