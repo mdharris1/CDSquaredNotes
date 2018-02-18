@@ -1,4 +1,4 @@
-# Deep Learning List
+# Deep Learning List TOC
 
 ##### - [ ] [Notes for Deep Learning Course by Kaggle](#kaggle-deep-learning)
 ##### - [ ] [Deep Learning with Python by Francois Chollet] (#deep-learning-python)
