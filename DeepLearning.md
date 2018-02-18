@@ -9,6 +9,7 @@
 ##### - [ ] Convolutional Neural Networks from Deeplearning.ai
 ##### - [ ] Sequence Models from Deeplearning.ai
  
+<a name="kaggle-deep-learning"></a>
 ## [Notes on Deep Learning by Kaggle]
 
 - [ ] 1. Intro to Deep Learning and Machine Vision 
