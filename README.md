@@ -145,6 +145,12 @@
 - Ruby
 
 - Scala
+  - [ ] Functional Programming Principles in Scala from  Ecole Polytechnique Federale De Lausanne on Coursera
+  - [ ] Functional Program Design in Scala from  Ecole Polytechnique Federale De Lausanne on Coursera
+  - [ ] Parallel programming from  Ecole Polytechnique Federale De Lausanne on Coursera
+  - [ ] Big Data Analysis with Scala and Spark from  Ecole Polytechnique Federale De Lausanne on Coursera
+  - [ ] Functional Programming in Scala Capstone from  Ecole Polytechnique Federale De Lausanne on Coursera
+
 
 - JavaScript
 
@@ -152,6 +158,9 @@
   - [ ] SQL Fundamentals from Dataquest
   - [ ] SQL Intermediate: Table Relations and Joins from Dataquest
   - [ ] SQL and Databases: Advanced from Dataquest
+  - [ ] SQL Basics by Mode Analytics
+  - [ ] SQL Intermediate by Mode Analytics
+  - [ ] SQL Advanced by Mode Analytics
 
 - Robotics
 
@@ -186,6 +195,8 @@
   
 Competitions 
 - [ ] Kaggle Fundamentals from Dataquest
+
+- Chatbots
 
 <a name="Courses-and-Books"></a>
 <a name="Projects"></a>
