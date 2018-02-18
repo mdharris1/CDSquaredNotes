@@ -9,9 +9,9 @@
 ##### - [ ] Convolutional Neural Networks from Deeplearning.ai
 ##### - [ ] Sequence Models from Deeplearning.ai
  
-## [Notes on Deep Learning by Kaggle](kaggle-deep-learning)
+## [Notes on Deep Learning by Kaggle]
 
-- [ ] 1. Intro to Deep Learning and Machine Vision (#deep-learning)
+- [ ] 1. Intro to Deep Learning and Machine Vision
 - [ ] 2. Building models from convolutions
 - [ ] 3. Programming in TensorFlow and Keras
 - [ ] 4. Transfer Learning 
@@ -85,26 +85,3 @@ Part 2: Cutting Edge Deep Learning For Coders
 - [ ] Week 1: Recurrent Neural Networks
 - [ ] Week 2: Natural Language Processing & Word Embeddings
 - [ ] Week 3: Sequence models & Attention mechanism
-
-<a name="deep-learning"></a>
-#### Title: Intro to Deep Learning and Machine Vision
-What you should be able to do after this lesson: 
-  - Understand what a convolution
-  - Explain how convolutions are used to filter images
-  - Explain why convolutions are important in deep learning for pratical task like image recognition
-
-Key takaways:
-
-1. Convolutions are the basic building blocks for deep learning models in computer vision and other applicable areas
-2. Method of coverage in Kaggle is to start running models asap and come back to technical details
-3. Images are stored in a computer in data containers called tensors
-4. Tensors can be thought of as multidimensional data containers
-5. Convolutions are small tensors that can be applied to various sections of main image as a filter
-6. Convolutions act as filters on tensors because it can pick out parts of the image. 
-7. Example: Convolutions to detect horizontal line 
-
-Relationship to data science and computer science: 
-
-Other lessons that teach what this lesson does: 
-
-Reference: Note 1: Kaggle, Deep Learning, Introduction to Deep Learning and Computer Vision
