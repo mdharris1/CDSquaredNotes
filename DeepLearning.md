@@ -1,13 +1,13 @@
 # Deep Learning List
 
-  - [ ] [Notes for Deep Learning Course by Kaggle]
-  - [ ] [Deep Learning with Python by Francois Chollet]
-  - [ ] [Deep Learning by Fast.ai]
-  - [ ] Neural Networks and Deep Learning from Deeplearning.ai
-  - [ ] Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization from Deeplearning.ai
-  - [ ] Structuring Machine Learning Projects from Deeplearning.ai
-  - [ ] Convolutional Neural Networks from Deeplearning.ai
-  - [ ] Sequence Models from Deeplearning.ai
+##### - [ ] [Notes for Deep Learning Course by Kaggle]
+##### - [ ] [Deep Learning with Python by Francois Chollet]
+##### - [ ] [Deep Learning by Fast.ai]
+##### - [ ] Neural Networks and Deep Learning from Deeplearning.ai
+##### - [ ] Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization from Deeplearning.ai
+##### - [ ] Structuring Machine Learning Projects from Deeplearning.ai
+##### - [ ] Convolutional Neural Networks from Deeplearning.ai
+##### - [ ] Sequence Models from Deeplearning.ai
  
 ## [Notes on Deep Learning by Kaggle]
 
