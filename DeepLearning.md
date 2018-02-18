@@ -9,9 +9,9 @@
   - [ ] Convolutional Neural Networks from Deeplearning.ai
   - [ ] Sequence Models from Deeplearning.ai
  
-## [Notes on Deep Learning by Kaggle] (https://www.kaggle.com/learn/deep-learning)
+## [Notes on Deep Learning by Kaggle]
 
-- [x] 1. Intro to Deep Learning and Machine Vision (Note Committed 2/18/2018)
+- [ ] 1. Intro to Deep Learning and Machine Vision (#deep-learning)
 - [ ] 2. Building models from convolutions
 - [ ] 3. Programming in TensorFlow and Keras
 - [ ] 4. Transfer Learning 
@@ -55,6 +55,7 @@ Part 2: Cutting Edge Deep Learning For Coders
 - [ ] 13. Neural Machine Translation; Densenets/Neural Translation
 - [ ] 14. Entity Embeddings & Time Series; FC Densenets for Segmentation
 
+<a name="deep-learning"></a>
 #### Title: Intro to Deep Learning and Machine Vision
 What you should be able to do after this lesson: 
   - Understand what a convolution
