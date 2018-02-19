@@ -21,6 +21,7 @@ What you should know at the end of this lesson:
 *Takeaways:* 
 
 1. Convolutions are the basic building blocks for deep learning models in computer vision and other applicable area 
+![Tensors](https://cdn-images-1.medium.com/max/2000/1*_D5ZvufDS38WkhK9rK32hQ.jpeg)
 2. Method of coverage in Kaggle is to start running models asap and come back to technical details
 3. Images are stored in a computer in data containers called tensors
 4. Tensors are multidimensional data containers
