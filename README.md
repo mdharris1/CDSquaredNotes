@@ -1,9 +1,10 @@
 1. Data Science Basics
 2. Quantitative Methods 
-3. Data Engineering
-4. Machine Learning Process and Algorithms
-5. Applications
-6. Quantum Machine Learning
+3. Programming
+4. Data Engineering
+5. Machine Learning Process and Algorithms
+6. Applications
+7. Quantum Computing and Machine Learning
 
 - What is Data Science? 
 - What is Machine Learning? 
@@ -145,4 +146,3 @@ ETL stands for extract, transform, and load. The ETL Pattern is how most data pi
 
 
 1. (https://www.kdnuggets.com/2018/01/beginners-guide-data-engineering-1.html)
-
