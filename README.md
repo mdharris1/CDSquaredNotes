@@ -1,245 +1,141 @@
-This repository is a collection of notes developed from a curated list of courses, books, articles, and videos. If you find any of it useful, please feel free to use it. 
-
-# CDSquaredNotes
-
-- [API](#application-programming-interface)
-- [Big Data](#big-data)
-- [Chatbots](#data-sceince-programming-languages)
-- [Command Line](#data-sceince-programming-languages)
-- [Competitions](#data-sceince-programming-languages)
-- [Data Cleaning](#data-sceince-programming-languages)
-- [Data Engineering](#data-engineering)
-- [Data Science Programming Languages](#data-science-programming-langauges)
-- [Data Visualizations](#data-visualizations)
-- [Databases](#databases)
-- [Data Science Basics](#data-sceince-programming-languages)
-- [Data Structures and Algorithms](#data-sceince-programming-languages)
-- [Distributed and Parallel Computing](#data-sceince-programming-languages)
-- [Deep Learning](#Deep-learning)
-- [Exploratory Data Analysis](#data-sceince-programming-languages)
-- [General Non-Technical Books](#General-non-technical)
-- [Git and Version Control](#data-sceince-programming-languages)
-- [JavaScript](#data-sceince-programming-languages)
-- [Machine Learning](#Courses-and-Books)
-- [Natural Language Processing](#data-sceince-programming-languages)
-- [Python](#data-sceince-programming-languages)
-- [Quantitative Foundations](#data-sceince-programming-languages)
-- [Quantum Computing](#data-sceince-programming-languages)
-- [Ruby](#data-sceince-programming-languages)
-- [Robotics](#data-sceince-programming-languages)
-- [Scala](#data-sceince-programming-languages)
-- [SQL](#data-sceince-programming-languages)
-- [Statistical Machine Learning](#data-sceince-programming-languages)
-- [Web Development](#data-sceince-programming-languages)
-
-<a name="data-engineering"><a/>
-- [Data Engineering](#data-engineering)
-  - [ ] [A beginner's Guide to Data Engineering- Part 1, Article, KDNuggets](https://www.kdnuggets.com/2018/01/beginners-guide-data-engineering-1.html)
-
-- General Non-Technical Books
-  - [ ] The master algorithm
-  - [ ] Programming Collective Intelligence
-
-- [Deep Learning](#Deep-learning)
-  - [ ] [Notes for Deep Learning Course by Kaggle]
-  - [ ] [Deep Learning with Python by Francois Chollet]
-  - [ ] [Deep Learning Part 1: Practical Deep Learning for Coders by Fast.ai]
-  - [ ] [Deep Learning Part 2: Cutting Edge Deep Learning For Coders by fast.ai]
-  - [ ] Neural Networks and Deep Learning from Deeplearning.ai
-  - [ ] Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization from Deeplearning.ai
-  - [ ] Structuring Machine Learning Projects from Deeplearning.ai
-  - [ ] Convolutional Neural Networks from Deeplearning.ai
-  - [ ] Sequence Models from Deeplearning.ai
-
-- Data Science Languages
-  - [ ] [R by Kaggle]
-  - [ ] The Data Scientist’s Toolbox from Duke University on Coursera
-  - [ ] R Programming from Duke University on Coursera
-  - [ ] Getting and Cleaning Data from Duke University on Coursera
-  - [ ] Exploratory Data Analysis from Duke University on Coursera
-  - [ ] Reproducible Research from Duke University on Coursera
-  - [ ] Statistical Inference from Duke University on Coursera
-  - [ ] Regression Models from Duke University on Coursera
-  - [ ] Practical Machine Learning from Duke University on Coursera
-  - [ ] Developing Data Products from Duke University on Coursera
-  - [ ] Data Science Capstone from Duke University on Coursera
-  - [ ] Introduction to Data Science in Python from University of Michigan on Coursera
-  - [ ] Applied Plotting, Charting & Data Representation in Python from University of Michigan on Coursera
-  - [ ] Applied Machine Learning in Python from University of Michigan on Coursera
-  - [ ] Applied Text Mining in Python from University of Michigan on Coursera
-  - [ ] Applied Social Network Analysis in Python from University of Michigan on Coursera
-  - [ ] R Fundamentals
-  - [ ] Exploring Topics in Data Science from Dataquest
-  - [ ] Data Scientist Capstone
-
-- Data Visualizations 
-  - [ ] [Data Visualizations by Kaggle]
-  
-- Big Data
-  - [ ] Introduction to Big Data from University of California-San Diego on Coursera 
-  - [ ] Big Data Modeling and Management Systems from University of California-San Diego on Coursera 
-  - [ ] Big Data Integration and Processing from University of California-San Diego on Coursera 
-  - [ ] Machine Learning With Big Data from University of California-San Diego on Coursera 
-  - [ ] Graph Analytics for Big Data from University of California-San Diego on Coursera 
-  - [ ] Big Data - Capstone Project from University of California-San Diego on Coursera
-  - [ ] Big Data Essentials: HDFS, MapReduce and Spark RDD by Yandex on Coursera
-  - [ ] Big Data Analysis: Hive, Spark SQL, DataFrames and GraphFrames by Yandex on Coursera
-  - [ ] Big Data Applications: Machine Learning at Scale by Yandex on Coursera
-  - [ ] Big Data Applications: Real-Time Streaming by Yandex on Coursera
-  - [ ] Big Data Services: Capstone Project by Yandex on Coursera
-  - [ ] Spark and Map-Reduce from Dataquest
-  - [ ] Processing Large Datasets In Pandas from Dataquest
-  - [ ] Optimizing Code Performance On Large Datasets from Dataquest
-  - [ ] Big Data: Principles and Best Practices of Scalable Realtime Data Systems
-  - [ ] Hadoop: The Definitive Guide
-  - [ ] Learning Spark
-
+- What is Data Science? 
+- What is Machine Learning? 
+- What is Deep Learning?
+- What is Data Science relationship to statistics?
+- What is Data Science relationship to different branches of computer science?
+- What is Big Data? 
+- What are the biggest obstacles facing data professionals? 
+- What seperates a bad. average, good, and excellent Data Scientist? 
+- What is Quantum Machine Learning? 
+- What is the best deep learning technique to use for Deep Learning? 
+- What is a convolutional neural netowrk? 
+- What is a logistic regression? 
+- What are the measures to describe the dispersion of data?
+- What are the measures to describe the location of data? 
+- What is the process for cleaning a dataset? 
+- How do you work with medium size datasets?
+- How do you work with large datasets? 
+- What is MapReduce? 
+- What is Hadoop?
+- What are the current limitations of Machine Learning models? 
+- What is a tensor?
+- What is a convolution? 
+- What is backpropagation? 
+- What is gradient descent? 
+- What is natural language processing? 
+- What are ensembling methods? 
+- When should you use common data visualizations? 
+  1. Pie Chart
+  2. Bar Graph
+  3. Histogram
+  4. Treemap
+  5. Heatmap
+- What is data analysis?
+- What is exploratory data analysis?
+- What are common purposes for data science projects? 
+- What is Naive Bayes Theorem? 
+- How is Naive Bayes used in Machine Learning?
+- What is a Kernel Method?
+- What is a Neural Network? 
+- How do you test hypothesis? 
+- What are common applications used for data work? What are their strengths and weaknesses? 
+- What is quantum information? 
+- What is a file format and which formats are the most common? 
+- What is parallel computing? 
+- How will quantum computing solve Moore's problem? 
+- What is a circuit? 
+- What is a bit, byte, etc? 
+- What is the machine learning workflow? 
+- What are the different types of neural networks for deep learning? What are the advantages and disadvantages? 
+- What are the common python data structures? 
+- What is the Python programming language? 
+- What are the common list comprehensions? 
+- What is the purpose of Python Numpy? 
+- What is the purpose of Python SciPy? 
+- What is the purpose of Python Pandas? 
+- What is the purpose of Scikit-Learn? 
+- What is the purpose of PySpark? 
+- What are control flow statements in Python? 
+- What is a function? 
+- What is Jupyter Notebook?
+- What is Jupyter? 
+- How do you debug code in Python? 
+- What are best practices for coding?
+- What are the standards for good coding? 
+- What is a class in python?
+- What are the different programming paradigms? 
+- What is the difference and similarities between object-oriented programming and functional programming? 
+- When should you use a functional approach to accomplish a programming task?
+- When should you use a object-oriented approach to accomplish a programming task?
+- How do you handle earros in your code? 
+- Explain variable scope in Python 
+- What is regular expression? 
+- How do you work with dates in Python? 
+- What are the best approaches to deal with missing data? 
+- How do you deal with duplicate data? 
+- What is an Application Programming Interface? 
+- What is command line? 
+- Which concepts from Linear Algebra are used in Data Science?
+- Which concepts from Calculus are used in Data Science? 
+- Explain what regularization is and why it's useful
+- What is supervised machine learning? 
+- What is unsupervised machine learning? 
+- What is reinforcement learning? 
+- What is transfer learning? 
+- What is a reccomender system? 
+- What are the different types of regressions and how are they used? 
+- Explain what precision and recall are. How do they relate to the ROC curve?
+- How would you validate a model you created to generate a predictive model of a quantitative outcome variable using multiple regression.
+- What is root cause analysis?
+- What is sql? 
+- What is the select statement used for in sql? 
+- How do you join data using sql? 
+- What are commonly used methods applying machine learning to optimize pricing? 
+- How can machine learning be used to measure price elasticity? 
+- What is statistical power? 
+- Explain what resampling methods are and why they are useful. Also explain their limitations.
+- Is it better to have too many false positives, or too many false negatives? Explain.
+- Give an example of how you would use experimental design to answer a question about user behavior.
+- What is the difference between "long" and "wide" format data?
+- Explain Edward Tufte's concept of "chart junk."
+- How would you screen for outliers and what should you do if you find one?
+- How should you approach determining anomalies? 
+- How would you use either the extreme value theory, Monte Carlo simulations or mathematical statistics (or anything else) to correctly estimate the chance of a very rare event?
+- What are Monte Carlo simulations?
+- What are Markov Chains and how are they used? 
+- What is a recommendation engine? How does it work?
+- Explain what a false positive and a false negative are. Why is it important to differentiate these from each other?
+- Which tools do you use for visualization? What do you think of Tableau? R? SAS? (for graphs). How to efficiently represent 5 dimension in a chart (or in a video)?
+- What is web scraping? 
+- How would you build a scraper to scrap a significant portion of the internet? 
+- How would you build a data science team? 
+- What is data engineering?
+- What is the workflow to build a data pipeline? 
+- How is data science being applied in Economics?
+- How is data science being applied in accounting and finance? 
+- How is data science being applied in medicine? 
+- How is data science being applied in health? 
+- How is data science being applied in politics? 
+- How is data science being applied in journalism? 
 - Data Engineering
-  - [ ] [AWS Data Pipeline by Amazon Web Services]
-  - [ ] Postgres for Data Engineers
-  - [ ] Optimizing Postgres Databases
-  - [ ] Building a Data Pipeline
-  
-- Databases
+  - What is data engineering?(#data-engineering-defined)
+  - What is ETL?(#extract-transform-load)
+  - What is a Datawarehouse?(data-warehouse-defined) 
+  - What is a data pipeline?(#(data-pipeline) 
+  - What are the commonly used ETL frameworks? 
+  - What are the commonly used data warehouse frameworks? 
+-What are the different distributions? 
 
-- Data Science Basics
-  - [ ] [The Data Science Handbook by Field Cady, Wiley]
-  Summary: The data science handbook goal is to prepare readers of various skill levels to be compotent data scientist, complete a data project, or become what the book calls a "Data unicorns". The book is broken down into three sections: 
-            1. The stuff you'll always use part equip a reader with skills to solve simple data problems and covers subjects likely to arise in any data project
-            2. Stuff you still need to know cover a range of topics which a professional data scienctist will likely use during their career. 
-            3. Specialized or advanced topics covers topics in greater depth from part 1 and 2, and moves from nuts and bolts applications to more abstract theory 
+What is Data Engineering? 
 
-- Quantitative Foundations
-  - [ ] [Handbook of Mathematics by Springer]
-  - [ ] Calculus For Machine Learning from Dataquest
-  - [ ] Linear Algebra For Machine Learning from Dataquest
-  - [ ] Khan Linear Algebra  
-  - [ ] Khan Differential Calculus
-  - [ ] Khan Integral Calculius 
-  - [ ] Khan Multivariable Calculus
-  - [ ] Mathematics for Machine Learning MIT
-  - [ ] Single Variable Calculus MIT
-  - [ ] Multivariable Calculus MIT
-  - [ ] Introduction to Probability and Statistics MIT
-  - [ ] Calculus of Several Variables MIT
-  - [ ] Mathematics for Computer Science (Fall 2005) MIT
-  - [ ] Advanced Calculus for Engineers (Fall 2004) MIT
-  - [ ] Linear Algebra - Communications Intensive (Spring 2004) MIT
-  - [ ] Real Analysis (Fall 2012) MIT
-  - [ ] Automata, Computability, and Complexity (Spring 2011) MIT
-  - [ ] Theory of Computation (Fall 2006) MIT
+Data Engineering is gatheriing and collecting data, stores it, processing (real-time or batch), and serves it via an API.(1). In other words, data engineering is building and maintaining various stages of a data pipeline. The final destination for data is usually a data warehouse. The data is ingested, transformed from raw form to analytical ready form, and loaded to the destination where the data will be served like an API, ERM, Datawarehouse. A datawarehouse is a central place for analytics ready data. The latter pattern to ingest raw data, transform, and load data is called ETL. There are many frameworks to do ETL. There are products for data warehousing. 
 
-- Quantum Computing
-  - [ ] [Quantum Computation and Quantum Information by Isaac Chuang and Michael Nielsen]
-  - [ ] Quantum computing for the Determined
-  - [ ] An introduction to quantum machine learning
-  - [ ] Introduction to Quantum Mechanics I
-  - [ ] Introduction toQuantum Mechanic II
-  - [ ] Physics I: Classical Mechanics (Fall 2008)
-  - [ ] Physics II: Electricity and Magnetism (Spring 2007)
-  - [ ] Physics III (Spring 2003)
-  - [ ] Quantum Physics I (Spring 2016)
-  - [ ] Quantum Physics II (Fall 2013)
-  - [ ] Quantum Physics III (Spring 2016)
-  - [ ] Quantum Computation (Fall 2003)
-  - [ ] Semantic Techniques in Quantum Computation – Editors Simon Gay and Ian Mackie
-  - [ ] Grover L.K.: A fast quantum mechanical algorithm for database search, Proceedings, 28th Annual ACM Symposium on the Theory of Computing, (May 1996) p. 212
-
-- [Machine Learning](#Courses-and-Books)
-  - [ ] [Notes for Machine Learning by Kaggle]
-  - [ ] Machine Learning taught by Andrew Ng on Cousera
-  - [ ] Machine Learning Foundations: A Case Study Approach from the University of Washington on Coursera
-  - [ ] Machine Learning: Regression from the University of Washington on Coursera
-  - [ ] Machine Learning: Classification from the University of Washington on Coursera
-  - [ ] Machine Learning: Clustering & Retrieval from the University of Washington on Coursera
-  - [ ] Introduction to Deep Learning from Higher School of Economics, National Research University on Coursera
-  - [ ] How to Win a Data Science Competition: Learn from Top Kagglers  from Higher School of Economics, National Research University on Coursera
-  - [ ] Bayesian Methods for Machine Learning from Higher School of Economics, National Research University on Coursera
-  - [ ] Natural Language Processing from Higher School of Economics, National Research University on Coursera
-  - [ ] Practical Reinforcement Learning from Higher School of Economics, National Research University on Coursera
-  - [ ] Deep Learning in Computer Vision from Higher School of Economics, National Research University on Coursera
-  - [ ] Addressing Large Hadron Collider Challenges from Higher School of Economics, National Research University on Coursera
-  - [ ] Machine Learning for Hackers
-  - [ ] Machine Learning by Tom M Mitchell
-  - [ ] Pattern Recognition and Machine Learning
-  - [ ] Linear Regression For Machine Learning from Dataquest
-  - [ ] Machine Learning in Python: Intermediate from Dataquest
-  - [ ] Decision Trees from Dataquest
-  - [ ] Machine Learning Project from Dataquest
-
-- Statistical Machine Learning 
-  - [ ] Probabilistic Graphical Models 1: Representation
-  - [ ] Probabilistic Graphical Models 2: Inference
-  - [ ] Probabilistic Graphical Models 3: Learning
-  - [ ] The elements of statistical learning
-  - [ ] Probability and Statistics in Python: Beginner from Dataquest
-  - [ ] Probability and Statistics in Python: Intermediate from Dataquest
-
-- Python
-  - [ ] Python Programming: Beginner from Dataquest
-  - [ ] Python Programming: Intermediate from Dataquest
-  - [ ] Python Programming: Advanced from Dataquest
-
-- Ruby
-
-- Scala
-  - [ ] Functional Programming Principles in Scala from  Ecole Polytechnique Federale De Lausanne on Coursera
-  - [ ] Functional Program Design in Scala from  Ecole Polytechnique Federale De Lausanne on Coursera
-  - [ ] Parallel programming from  Ecole Polytechnique Federale De Lausanne on Coursera
-  - [ ] Big Data Analysis with Scala and Spark from  Ecole Polytechnique Federale De Lausanne on Coursera
-  - [ ] Functional Programming in Scala Capstone from  Ecole Polytechnique Federale De Lausanne on Coursera
+What is ETL? 
+ETL stands for extract, transform, and load. The ETL Pattern is how most data pipelines are designed and structured.(1) 
+1. Extract is how data is gathered from source locations
+2. Transform is the process where operations are applied to raw data to get in analysis ready form
+3. Load is pushing the data upstream to final destination to be used for analysis. At large companies this is often a data warehouse. 
 
 
-- JavaScript
+1. (https://www.kdnuggets.com/2018/01/beginners-guide-data-engineering-1.html)
 
-- SQL 
-  - [ ] SQL Fundamentals from Dataquest
-  - [ ] SQL Intermediate: Table Relations and Joins from Dataquest
-  - [ ] SQL and Databases: Advanced from Dataquest
-  - [ ] SQL Basics by Mode Analytics
-  - [ ] SQL Intermediate by Mode Analytics
-  - [ ] SQL Advanced by Mode Analytics
-
-- Robotics
-
-- Command Line
-  - [ ] Command Line: Beginner from Dataquest
-  - [ ] Command Line: Intermediate from Dataquest
-
-- Git and Version Control
-  - [ ] Git and Version Control from Dataquest
-
-- Web Development
-
-- Exploratory Data Analysis
-  - [ ] Data Analysis with Pandas: Intermediate from Dataquest
-  - [ ] Exploratory Data Visualization from Dataquest
-  - [ ] Storytelling Through Data Visualization from Dataquest
-  
-- Data Cleaning 
-  - [ ] Data Cleaning from Dataquest
-
-- API
-  - [ ] APIs and Web Scraping from Dataquest
-  - [ ] Machine Learning Fundamentals from Dataquest
-  
-- Natural Language Processing
-  - [ ] Natural Language Processing
-
-- Data Structures and Algorithms
-  - [ ] Data Structures and Algorithms from Dataquest
-  - [ ] Algorithms And Data Structures
-  - [ ] Recursion and Trees
-  
-Competitions 
-- [ ] Kaggle Fundamentals from Dataquest
-
-- Chatbots
-
-<a name="Courses-and-Books"></a>
-<a name="Projects"></a>
-<a name="Deep-learning"></a>
-
-### [Deep Learning by Kaggle] (https://www.kaggle.com/learn/deep-learning)
-
-Summary: Deep learning by Kaggle introduces concepts of Deep Learning using TensorFlow and Keras through an application based method while analyzing distinct parts.
