@@ -124,6 +124,7 @@
   - What is a data pipeline?(#(data-pipeline) 
   - What are the commonly used ETL frameworks? 
   - What are the commonly used data warehouse frameworks? 
+-What are the different distributions? 
 
 What is Data Engineering? 
 
