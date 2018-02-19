@@ -1,4 +1,4 @@
-This repository is a collection of notes developed from a curated list of courses, books, articles, and videos. 
+This repository is a collection of notes developed from a curated list of courses, books, articles, and videos. If you find any of it useful, please feel free to use it. 
 
 # CDSquaredNotes
 
