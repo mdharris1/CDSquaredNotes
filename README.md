@@ -8,9 +8,9 @@ This repository is a collection of notes developed from a curated list of course
 - [Command Line](#data-sceince-programming-languages)
 - [Competitions](#data-sceince-programming-languages)
 - [Data Cleaning](#data-sceince-programming-languages)
+- [Data Engineering](#data-engineering)
 - [Data Science Programming Languages](#data-science-programming-langauges)
 - [Data Visualizations](#data-visualizations)
-- [Data Engineering](#data-engineering)
 - [Databases](#databases)
 - [Data Science Basics](#data-sceince-programming-languages)
 - [Data Structures and Algorithms](#data-sceince-programming-languages)
@@ -31,6 +31,9 @@ This repository is a collection of notes developed from a curated list of course
 - [SQL](#data-sceince-programming-languages)
 - [Statistical Machine Learning](#data-sceince-programming-languages)
 - [Web Development](#data-sceince-programming-languages)
+
+- [Data Engineering](#data-engineering)
+  - [ ] [A beginner's Guide to Data Engineering- Part 1](https://www.kdnuggets.com/2018/01/beginners-guide-data-engineering-1.html)
 
 - General Non-Technical Books
   - [ ] The master algorithm
