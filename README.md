@@ -1,3 +1,10 @@
+1. Data Science Basics
+2. Quantitative Methods 
+3. Data Engineering
+4. Machine Learning Process and Algorithms
+5. Applications
+6. Quantum Machine Learning
+
 - What is Data Science? 
 - What is Machine Learning? 
 - What is Deep Learning?
