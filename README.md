@@ -99,7 +99,11 @@ This repository is a collection of notes developed from a curated list of course
 - Databases
 
 - Data Science Basics
-  - [ ] [The Data Science Handbook by Field Cady, Wiley] ()
+  - [ ] [The Data Science Handbook by Field Cady, Wiley]
+  Summary: The data science handbook goal is to prepare readers of various skill levels to be compotent data scientist, complete a data project, or become what the book calls a "Data unicorns". The book is broken down into three sections: 
+            1. The stuff you'll always use part equip a reader with skills to solve simple data problems and covers subjects likely to arise in any data project
+            2. Stuff you still need to know cover a range of topics which a professional data scienctist will likely use during their career. 
+            3. Specialized or advanced topics covers topics in greater depth from part 1 and 2, and moves from nuts and bolts applications to more abstract theory 
 
 - Quantitative Foundations
   - [ ] [Handbook of Mathematics by Springer]
