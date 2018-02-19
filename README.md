@@ -1,7 +1,7 @@
 1. Data Science Basics
 2. Quantitative Methods 
 3. Programming
-4. Data Engineering
+4. Data Engineering adn data sources
 5. Machine Learning Process and Algorithms
 6. Applications
 7. Quantum Computing and Machine Learning
