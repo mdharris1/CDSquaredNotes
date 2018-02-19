@@ -1,7 +1,7 @@
 1. Data Science Basics
 2. Quantitative Methods 
 3. Programming
-4. Data Engineering and data sources
+4. Data Engineering and Data Sources
 5. Machine Learning Process and Algorithms
 6. Applications
 7. Quantum Computing and Machine Learning
@@ -146,3 +146,12 @@ ETL stands for extract, transform, and load. The ETL Pattern is how most data pi
 
 
 1. (https://www.kdnuggets.com/2018/01/beginners-guide-data-engineering-1.html)
+
+Supervised Learning 
+- What is supervised machine learning? 
+
+Unsupervised Learning 
+- What is unsupervised machine learning? 
+
+Reinforcement Learning
+- What is reinforcement learning? 
