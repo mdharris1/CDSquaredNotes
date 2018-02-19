@@ -29,6 +29,7 @@ What you should know at the end of this lesson:
 ![Convolution-applied-to-image2](https://www.pyimagesearch.com/wp-content/uploads/2014/06/cnn_architecture.jpg)
 7. Convolutions act as filters on tensors because it can pick out parts of the image. 
 ![Convolution-applied-to-image3](https://i.stack.imgur.com/YDusp.png)
+![Convolution-applied-to-image4](https://i.imgur.com/op9Maqr.png)
 8. Example: Convolutions to detect horizontal line 
 
 *Other lessons which teach material in this lesson:* 
