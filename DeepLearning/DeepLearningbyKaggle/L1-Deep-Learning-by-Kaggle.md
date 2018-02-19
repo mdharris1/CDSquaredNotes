@@ -16,7 +16,7 @@ What you should know at the end of this lesson:
 2. Method of coverage in Kaggle is to start running models asap and come back to technical details
 3. Images are stored in a computer in data containers called tensors
 4. Tensors are multidimensional data containers
-5. Convolutions are small tensors that can be applied to various sections of main image as a filters
+5. Convolutions are small tensors that can be applied to various sections of main image as a filters becuase it can pick out part of an image based on recognizing patterns. 
 ![Convolution-applied-to-image](https://ikhlestov.github.io/images/ML_notes/convolutions/01_simple_convolution.jpg)
 ![Convolution-applied-to-image2](https://www.pyimagesearch.com/wp-content/uploads/2014/06/cnn_architecture.jpg)
 7. Convolutions act as filters on tensors because it can pick out parts of the image. 
