@@ -32,8 +32,9 @@ This repository is a collection of notes developed from a curated list of course
 - [Statistical Machine Learning](#data-sceince-programming-languages)
 - [Web Development](#data-sceince-programming-languages)
 
+<a name="data-engineering"><a/>
 - [Data Engineering](#data-engineering)
-  - [ ] [A beginner's Guide to Data Engineering- Part 1](https://www.kdnuggets.com/2018/01/beginners-guide-data-engineering-1.html)
+  - [ ] [A beginner's Guide to Data Engineering- Part 1, Article, KDNuggets](https://www.kdnuggets.com/2018/01/beginners-guide-data-engineering-1.html)
 
 - General Non-Technical Books
   - [ ] The master algorithm
