@@ -2,7 +2,7 @@
 2. Quantitative Methods 
 3. Programming
 4. Data Engineering and Data Sources
-5. Machine Learning Process and Algorithms
+5. Machine Learning Process and Algorithms(#machine-learning)
 6. Applications
 7. Quantum Computing and Machine Learning
 
@@ -10,7 +10,8 @@
 ## [1. Data Science Basics] 
 ## [2. Quantitative Methods]
 ## [3. Programming and software engineering]
-## [4. Data Enginerring and Data Sources] 
+## [4. Data Enginerring and Data Sources]
+<a name="machine-learning"><a/>
 ## [5. Machine Learning Process and Algorithms]
 ## [6. Application]
 ## [7. Quantum Computing and Machine Learning] 
