@@ -32,6 +32,15 @@ ETL stands for extract, transform, and load. The ETL Pattern is how most data pi
 2. Transform is the process where operations are applied to raw data to get in analysis ready form
 3. Load is pushing the data upstream to final destination to be used for analysis. At large companies this is often a data warehouse. 
 
+What is Quantum Machine Learning? 
+An intewrdisciplinary field at the intersection of quantum physics and machine learning. 
+What example did Satya Nadella use to analogize quantum computing to classical computing performance?
+Corn Maze
+What is the benefit for quantum computers compared to regular computers? 
+parallelism 
+What is a quantum? 
+smallest physical unit/entity
+
 
 - [ ] 1. A Beginner’s Guide to Data Engineering  –  Part I by Robert Chang, Airbnb (https://www.kdnuggets.com/2018/01/beginners-guide-data-engineering-1.html)
 - [ ] 2. The 8 Neural Network Architectures Machine Learning Researchers Need to Learn By James Le, Freelance Full Stack Web Developer https://www.kdnuggets.com/2018/02/8-neural-network-architectures-machine-learning-researchers-need-learn.html/2
