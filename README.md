@@ -52,5 +52,11 @@ smallest physical unit/entity
 - [ ] 6. The 10 Algorithms Machine Learning Engineers Need to Know By James Le, New Story Charity. https://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html
 - [ ] 7. Top 10 Machine Learning Algorithms for Beginners By Reena Shaw, KDnuggets.https://www.kdnuggets.com/2017/10/top-10-machine-learning-algorithms-beginners.html
 - [ ] 8. Why Implement Machine Learning Algorithms From Scratch? By Sebastian Raschka, Michigan State University. https://www.kdnuggets.com/2016/05/implement-machine-learning-algorithms-scratch.html
+- [ ] 9. Quantum Algorithms for Nearest-Neighbor Methods for Supervised and Unsupervised Learning by Nathan Wiebe, Ashish Kapoor, Krysta Svore (Submitted on 9 Jan 2014 (v1), last revised 18 Jul 2014 (this version, v2))https://arxiv.org/abs/1401.2142
+- [ ] 10. Quantum principal component analysis by Seth Lloyd, Masoud Mohseni & Patrick Rebentrost, Nature Physics volume 10, pages 631–633 (2014)https://www.nature.com/articles/nphys3029
+- [ ] 11. https://www.youtube.com/watch?v=g_IaVepNDT4
+- [ ] 12. Getting Started with LIQUi|> and Quantum Computing by Lee Stott https://blogs.msdn.microsoft.com/uk_faculty_connection/2017/10/11/getting-started-with-liqui-and-quantum-computing/
+- [ ] 13. Quantum Mystery of Light Revealed by New Experiment By Clara Moskowitz https://www.livescience.com/24509-light-wave-particle-duality-experiment.html
+- [ ] 14. Lecture 22: Quantum Computing, November 20, 2013 Lecturer: John Wright, http://www.cs.cmu.edu/~odonnell/toolkit13/lecture22.pdf
 
 
