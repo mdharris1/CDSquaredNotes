@@ -31,5 +31,13 @@ ETL stands for extract, transform, and load. The ETL Pattern is how most data pi
 3. Load is pushing the data upstream to final destination to be used for analysis. At large companies this is often a data warehouse. 
 
 
-1. (https://www.kdnuggets.com/2018/01/beginners-guide-data-engineering-1.html)
+- [ ] 1. A Beginner’s Guide to Data Engineering  –  Part I by Robert Chang, Airbnb (https://www.kdnuggets.com/2018/01/beginners-guide-data-engineering-1.html)
+- [ ] 2. The 8 Neural Network Architectures Machine Learning Researchers Need to Learn By James Le, Freelance Full Stack Web Developer https://www.kdnuggets.com/2018/02/8-neural-network-architectures-machine-learning-researchers-need-learn.html/2
+- [ ] 3. The 10 Deep Learning Methods AI Practitioners Need to Apply By James Le, Freelance Full Stack Web Developer https://www.kdnuggets.com/2017/12/10-deep-learning-methods-ai-practitioners-need-apply.html
+- [ ] 4. Quantum Machine Learning: An Overview By Reena Shaw, KDnuggets https://www.kdnuggets.com/2018/01/quantum-machine-learning-overview.html
+- [ ] 5. The 10 Statistical Techniques Data Scientists Need to Master By James Le, Freelance Full Stack Web Developer.https://www.kdnuggets.com/2017/11/10-statistical-techniques-data-scientists-need-master.html
+- [ ] 6. The 10 Algorithms Machine Learning Engineers Need to Know By James Le, New Story Charity. https://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html
+- [ ] 7. Top 10 Machine Learning Algorithms for Beginners By Reena Shaw, KDnuggets.https://www.kdnuggets.com/2017/10/top-10-machine-learning-algorithms-beginners.html
+- [ ] 8. Why Implement Machine Learning Algorithms From Scratch? By Sebastian Raschka, Michigan State University. https://www.kdnuggets.com/2016/05/implement-machine-learning-algorithms-scratch.html
+
 
