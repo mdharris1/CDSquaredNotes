@@ -1,4 +1,4 @@
-1. Data Science Basics(#data-science-basics)
+1. [Data Science Basics](#data-science-basics)
 2. Quantitative Methods 
 3. Programming
 4. Data Engineering and Data Sources
