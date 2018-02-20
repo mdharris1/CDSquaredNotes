@@ -17,7 +17,7 @@ My approach for learning Data Science will be modeled after the simplied questio
    [What is data engineering?](#what-data-engineering)
 <a name="machine-learning"><a/>
 ## [Machine Learning Process and Algorithms]
-## [pplication]
+## [Application]
   <a name="quantum"><a/>
 ## [Quantum Computing and Machine Learning] 
 
