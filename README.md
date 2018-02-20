@@ -1,4 +1,4 @@
-1. Data Science Basics
+1. Data Science Basics(#Data-science-basics)
 2. Quantitative Methods 
 3. Programming
 4. Data Engineering and Data Sources
@@ -6,6 +6,7 @@
 6. Applications
 7. Quantum Computing and Machine Learning
 
+<a name="Data-science-basics><a/>
 - What is Data Science? 
 - What is Machine Learning? 
 - What is Deep Learning?
