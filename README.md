@@ -1,3 +1,5 @@
+My approach for learning Data Science will be modeled after the simplied question and answer method used by A.A. Klaf in a dover series of mathematics book. 
+
 1. [Data Science Basics](#data-science-basics)
 2. Quantitative Methods 
 3. Programming and Software Engineering
@@ -7,17 +9,17 @@
 7. [Quantum Computing and Machine Learning](#quantum)
 
 <a name="data-science-basics"><a/>
-## [1. Data Science Basics] 
-## [2. Quantitative Methods]
-## [3. Programming and Software Engineering]
+## [Data Science Basics] 
+## [Quantitative Methods]
+## [Programming and Software Engineering]
   <a name="data-engineering"><a/>
-## [4. Data Engineering and Data Sources]
-   1. [What is data engineering?](#what-data-engineering)
+## [Data Engineering and Data Sources]
+   [What is data engineering?](#what-data-engineering)
 <a name="machine-learning"><a/>
-## [5. Machine Learning Process and Algorithms]
-## [6. Application]
+## [Machine Learning Process and Algorithms]
+## [pplication]
   <a name="quantum"><a/>
-## [7. Quantum Computing and Machine Learning] 
+## [Quantum Computing and Machine Learning] 
 
 
 What is Data Engineering?<a name="what-data-engineering"><a/>
