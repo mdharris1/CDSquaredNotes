@@ -20,7 +20,7 @@
 ## [7. Quantum Computing and Machine Learning] 
 
 
-[What is Data Engineering?]<a name="what-data-engineering"><a/>
+What is Data Engineering?<a name="what-data-engineering"><a/>
 
 Data Engineering is gatheriing and collecting data, stores it, processing (real-time or batch), and serves it via an API.(1). In other words, data engineering is building and maintaining various stages of a data pipeline. The final destination for data is usually a data warehouse. The data is ingested, transformed from raw form to analytical ready form, and loaded to the destination where the data will be served like an API, ERM, Datawarehouse. A datawarehouse is a central place for analytics ready data. The latter pattern to ingest raw data, transform, and load data is called ETL. There are many frameworks to do ETL. There are products for data warehousing. 
 
