@@ -42,6 +42,8 @@ What is a quantum?
 smallest physical unit/entity
 
 
+
+
 - [ ] 1. A Beginner’s Guide to Data Engineering  –  Part I by Robert Chang, Airbnb (https://www.kdnuggets.com/2018/01/beginners-guide-data-engineering-1.html)
 - [ ] 2. The 8 Neural Network Architectures Machine Learning Researchers Need to Learn By James Le, Freelance Full Stack Web Developer https://www.kdnuggets.com/2018/02/8-neural-network-architectures-machine-learning-researchers-need-learn.html/2
 - [ ] 3. The 10 Deep Learning Methods AI Practitioners Need to Apply By James Le, Freelance Full Stack Web Developer https://www.kdnuggets.com/2017/12/10-deep-learning-methods-ai-practitioners-need-apply.html
