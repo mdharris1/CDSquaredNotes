@@ -2,7 +2,7 @@
 2. Quantitative Methods 
 3. Programming
 4. Data Engineering and Data Sources
-5. Machine Learning Process and Algorithms(#machine-learning)
+5. [Machine Learning Process and Algorithms](#machine-learning)
 6. Applications
 7. Quantum Computing and Machine Learning
 
