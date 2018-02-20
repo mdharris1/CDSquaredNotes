@@ -6,7 +6,7 @@
 6. Applications
 7. Quantum Computing and Machine Learning
 
-(a name="data-science-basics")(a/)
+<a name="data-science-basics"><a/>
 ## [1. Data Science Basics] 
 ## [2. Quantitative Methods]
 ## [3. Programming and software engineering]
