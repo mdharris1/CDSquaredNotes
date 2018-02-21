@@ -238,7 +238,7 @@ temperature stability adding qubits is difficult
 
 
 - [ ] 1. A Beginner’s Guide to Data Engineering  –  Part I by Robert Chang, Airbnb (https://www.kdnuggets.com/2018/01/beginners-guide-data-engineering-1.html)
-- [ ] 2. The 8 Neural Network Architectures Machine Learning Researchers Need to Learn By James Le, Freelance Full Stack Web Developer https://www.kdnuggets.com/2018/02/8-neural-network-architectures-machine-learning-researchers-need-learn.html/2
+- [ ] 1. The 8 Neural Network Architectures Machine Learning Researchers Need to Learn By James Le, Freelance Full Stack Web Developer https://www.kdnuggets.com/2018/02/8-neural-network-architectures-machine-learning-researchers-need-learn.html/2
 - [ ] 3. The 10 Deep Learning Methods AI Practitioners Need to Apply By James Le, Freelance Full Stack Web Developer https://www.kdnuggets.com/2017/12/10-deep-learning-methods-ai-practitioners-need-apply.html
 - [x] 4. Quantum Machine Learning: An Overview By Reena Shaw, KDnuggets https://www.kdnuggets.com/2018/01/quantum-machine-learning-overview.html
 - [ ] 5. The 10 Statistical Techniques Data Scientists Need to Master By James Le, Freelance Full Stack Web Developer.https://www.kdnuggets.com/2017/11/10-statistical-techniques-data-scientists-need-master.html
@@ -251,5 +251,4 @@ temperature stability adding qubits is difficult
 - [ ] 12. Getting Started with LIQUi|> and Quantum Computing by Lee Stott https://blogs.msdn.microsoft.com/uk_faculty_connection/2017/10/11/getting-started-with-liqui-and-quantum-computing/
 - [ ] 13. Quantum Mystery of Light Revealed by New Experiment By Clara Moskowitz https://www.livescience.com/24509-light-wave-particle-duality-experiment.html
 - [ ] 14. Lecture 22: Quantum Computing, November 20, 2013 Lecturer: John Wright, http://www.cs.cmu.edu/~odonnell/toolkit13/lecture22.pdf
-
-
+- [ ] 1. A comprehensive beginners guide for Linear, Ridge and Lasso Regression by SHUBHAM JAI, https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/
