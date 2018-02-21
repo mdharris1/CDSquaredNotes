@@ -32,7 +32,7 @@ ETL stands for extract, transform, and load. The ETL Pattern is how most data pi
     2. Transform is the process where operations are applied to raw data to get in analysis ready form
     3. Load is pushing the data upstream to final destination to be used for analysis. At large companies this is often a data warehouse. 
 
-1. As it relates to electron orbiting a nuclear what does |0> and |1> represent?
+1. As it relates to electron orbiting a nuclear what does |0> and |1> represent?<br/>
 excited state and ground state repectively
 1. As it relates tophoton what does |0> and |1> represent?
 polarization ogf the photon
