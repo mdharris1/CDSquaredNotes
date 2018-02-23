@@ -39,3 +39,9 @@ My approach for learning Data Science will be modeled after the simplied questio
 - [ ] 1. Lecture 22: Quantum Computing, November 20, 2013 Lecturer: John Wright, http://www.cs.cmu.edu/~odonnell/toolkit13/lecture22.pdf
 - [ ] 1. A comprehensive beginners guide for Linear, Ridge and Lasso Regression by SHUBHAM JAI, https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/
 
+https://www.technologyreview.com/s/610250/hello-quantum-world/
+https://meetingsandevents.jpmorganchase.com/metron/(medialibrary)/55216dc5-b073-46a4-ad56-76a32f8a1939/meetings/32ade8db-aa6a-4b5a-94e5-e70da0081272/documents/Monday_1230_Colin_W.pdf
+https://arxiv.org/abs/1508.06586
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2649376
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2708678
+http://www.quantumforquants.org/quantum-computing/why-quantum-finance/
