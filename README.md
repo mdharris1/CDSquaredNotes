@@ -1,4 +1,4 @@
-My approach for learning Data Science will be modeled after the simplied question and answer method used by A.A. Klaf in a dover series of mathematics book. 
+The purpose of this repository is to document my journey to figuring out quantum machine learning, its capabilities, and to create novel ways of using it. 
 
 1. [Data Science Basics](#data-science-basics)
 2. Quantitative Methods 
