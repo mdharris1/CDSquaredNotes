@@ -38,6 +38,11 @@
    1. SPSS
 1. Applications
    1. Business
+      1. Accounting
+      1. Finance
+      1. Marketing
+      1. Management
+      1. Supply Chain
    1. Applied Physics
    1. Appplied Chemistry
    1. Data Science
