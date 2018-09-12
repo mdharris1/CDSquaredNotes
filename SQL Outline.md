@@ -15,8 +15,10 @@ SQL (Implemented on Microsoft SQL Server)
     1. Indexes and Constraints
     1. Views
     1. Metadata
-1. Common patterns (or cookbook)
+1. Common patterns (or cookbook) (Problem, solution, discussion)
     1. Retrieving Records 
+        1. Retreiving All Rows and Columns from a Table
+        1. Retreiving a subset Rows from a Table
     1. Sorting Query Results
     1. Working with multiple tables
     1. Inserting, updating, and deleting
