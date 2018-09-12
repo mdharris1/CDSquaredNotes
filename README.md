@@ -1,4 +1,4 @@
-1. Mathematics (Pure Mathematics)
+1. Mathematics
    1. What is Mathemtics? (&Philosophy of Math)
    1. Pure Mathematics
    1. Numbers (Number Theory)
@@ -24,6 +24,7 @@
       1. Vector Analysis and Vector Fields
    1. Probability Theory and Mathematical Statistics
    1. Dynamical Systems and Chaos
+   1. Applied Mathematics
 1. Statistics
 1. Computer Science
 1. Artificial Intelligence
