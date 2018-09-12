@@ -1,8 +1,8 @@
 SQL (Implemented on Microsoft SQL Server)
 
 1. Topics
-  1. Creating and populating a database
-  1. Query Primer
+    1. Creating and populating a database
+    1. Query Primer
   1. Filtering
   1. Querying Multiple Tables
   1. Working with Sets
