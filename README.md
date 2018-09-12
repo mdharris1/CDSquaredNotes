@@ -28,8 +28,12 @@
    1. Dynamical Systems and Chaos
    1. Applied Mathematics
 1. Statistics
-1. Computer Science
-   1. SQL
+1. Computing
+   1. Computer Science
+   1. Software Engineering 
+   1. Information Systems 
+      1. SQL
+   1. Informations Technology
 1. Artificial Intelligence
    1. Machine Learning
 1. Tools
