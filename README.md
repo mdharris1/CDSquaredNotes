@@ -27,6 +27,7 @@
    1. Applied Mathematics
 1. Statistics
 1. Computer Science
+   1. SQL
 1. Artificial Intelligence
    1. Machine Learning
 1. Tools
