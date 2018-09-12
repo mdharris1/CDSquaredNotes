@@ -19,6 +19,9 @@ SQL (Implemented on Microsoft SQL Server)
     1. Retrieving Records 
         1. Retrieving All Rows and Columns from a Table
         1. Retrieving a subset Rows from a Table
+        1. Retrieving a Subset of Columns from a Table
+        1. Providing Meaningful Names for Columns
+        1. Referencing an Aliased Column in the WHERE Clause
     1. Sorting Query Results
     1. Working with multiple tables
     1. Inserting, updating, and deleting
