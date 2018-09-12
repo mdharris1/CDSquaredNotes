@@ -1,15 +1,15 @@
 1. Mathematics
    1. Origins
    1. Foundations
-      1. What is Mathemtics? (&Philosophy of Math)
+      1. What is Mathematics? (&Philosophy of Math)
    1. Pure Mathematics
-   1. Numbers (Number Theory)
-      1. Numerical Analysis
-   1. Arithmetic
-   1. Algebra
+      1. Numbers (Number Theory)
+         1. Numerical Analysis
+      1. Arithmetic
+      1. Algebra
+            1. Discrete Mathematics
+            1. Computer Algebra Systems
       1. Linear Algebra
-      1. Discrete Mathematics
-      1. Computer Algebra Systems
    1. Geometry
    1. Functions
       1. Functional Analysis
