@@ -1,4 +1,5 @@
 SQL (Implemented on Microsoft SQL Server)
+
 1. Topics
   1. Creating and populating a database
   1. Query Primer
