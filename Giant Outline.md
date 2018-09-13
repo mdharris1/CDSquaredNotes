@@ -81,12 +81,28 @@ Hierarchial view (Web view will be created)
       1. Optimization
       1. Computer Science
       1. Cryptography
-1. Statistics
 1. Computing
    1. Computer Science
-   1. Software Engineering 
+      1. Foundations of Computing
+         1. What is comupter science?
+         1. Structure amd Organization of Computing
+         1. Computational Thinking
+      1. Algorithms and Complexity
+         1. Data Structures
+      1. Architecture and Organization
+      1. Computational Science and Graphics
+      1. Intelligent Systems
+      1. Networking and Communication
+      1. Operating Systems
+      1. Programming Languages
+   1. Software Engineering
+      1. Discipline of Software engineering
+      1. Software Quality and Measurement
+      1. Software Development
+      1. Software Modeling, Analysis, and Design
    1. Information Systems 
-      1. SQL
+      1. Data and Information Management
+         1. SQL
    1. Informations Technology
 1. Physics
    1. Classical
