@@ -6,7 +6,7 @@ Hierarchial view (Web view will be created)
       1. What is Mathematics? (&Philosophy of Math)
       1. Fundamental Rules
       1. Mathematical Logic
-      1. Set Theory
+      1. Set Theory- study of the collection of mathematical objects
       1. Category Theory
       1. Theory of Computation
          1. Complexity Theory- study of what is and is not computable and how much memory is need to compute. 
