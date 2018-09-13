@@ -1,3 +1,5 @@
+Hierarchial view (Web view will be created)
+
 1. Mathematics
    1. Origins
    1. Foundations
@@ -70,8 +72,10 @@
    1. Information Systems 
       1. SQL
    1. Informations Technology
-1. Artificial Intelligence
-   1. Machine Learning
+1. Physics
+   1. Classical
+   1. Quantum 
+   1. Relativity
 1. Tools
    1. Jupyter Notebook
    1. Database Management System
