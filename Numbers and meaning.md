@@ -1,5 +1,5 @@
 1. Numbers are mathematical objects used to count, measure and label. 
-1. Natural Numbers are mathematical objects that used for counting and ordering. Another way to define natural numbers is as the infinite set of all possible integers
+1. Natural Numbers are mathematical objects that used for counting and ordering. Another way to define natural numbers is as the infinite set of postive integers
 1. Integer is a number that can be written without a fractional number. Another way to define integers is zero, positive and negative integers
     1. Even numbers are numbers that pass the divisibility test of 2 without a remainder
     1. Odd numbers
