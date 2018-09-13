@@ -9,7 +9,7 @@ Hierarchial view (Web view will be created)
       1. Set Theory- study of the collection of mathematical objects
       1. Category Theory
       1. Theory of Computation
-         1. Complexity Theory- study of what is and is not computable and how much memory is need to compute. 
+         1. Complexity Theory
    1. Pure Mathematics
       1. Number Systems
          1. Natural Numbers
@@ -60,7 +60,23 @@ Hierarchial view (Web view will be created)
       1. Game Theory
       1. Economics 
       1. Probability Theory
+         1.	Basic probability
+         1.	Probability theory
+         1.	Random variables
+         1.	Generating functions
+         1.	Convergence of random variables
+         1.	Stochastic processes
       1. Statistics
+         1.	Nature of statistics
+         1.	History of statistics
+         1.	Describing data
+         1.	Experiments and surveys
+         1.	Analysing data
+         1.	Filtering data
+         1.	Statistical inference
+         1.	Random variables
+         1.	Probability theory
+         11	Computational statistics
       1. Mathematical Finance
       1. Optimization
       1. Computer Science
