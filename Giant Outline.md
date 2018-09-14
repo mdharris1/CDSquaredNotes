@@ -1,15 +1,15 @@
 Hierarchial view (Web view will be created)
 
 1. Mathematics
-   1. Origins
-   1. Foundations
-      1. What is Mathematics? (&Philosophy of Math)
-      1. Fundamental Rules
-      1. Mathematical Logic
-      1. Set Theory- study of the collection of mathematical objects
-      1. Category Theory
-      1. Theory of Computation
-         1. Complexity Theory
+   1.1. Origins
+   1.2. Foundations
+      1.1.1. What is Mathematics? (&Philosophy of Math)
+      1.1.2. Fundamental Rules
+      1.1.3. Mathematical Logic
+      1.1.4. Set Theory- study of the collection of mathematical objects
+      1.1.5. Category Theory
+      1.1.6. Theory of Computation
+         1.1.1.1 Complexity Theory
    1. Pure Mathematics
       1. Number Systems
          1. Natural Numbers
@@ -127,3 +127,4 @@ Hierarchial view (Web view will be created)
    Map of mathematics
    https://www.youtube.com/watch?v=OmJ-4B-mS-Y
    
+1. 
