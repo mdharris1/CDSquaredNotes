@@ -3,7 +3,7 @@
 0,1/4,3,5.2,15,105<br>
 2. Which of the following are ⓐ counting numbers ⓑ whole numbers?<br>
 0,2/3,2,9,11.8,241,376<br>
-3.Which of the following are ⓐ counting numbers ⓑ whole numbers?<br>
+3. Which of the following are ⓐ counting numbers ⓑ whole numbers?<br>
 0,5/3,7,8.8,13,201<br>
 4. Use place value notation to find the value of the number modeled by the base-10 blocks shown.<br>
 https://cnx.org/resources/8df45ff1d8c8390977089bf0cac3c142684aad39/CNX_BMath_Figure_01_01_007_img.jpg
