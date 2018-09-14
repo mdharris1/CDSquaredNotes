@@ -29,6 +29,12 @@ https://cnx.org/resources/4a525dd105f30f98bad3c28ecc419cb72678d7dc/CNX_BMath_Fig
     1. ⓒ 2
     1. ⓓ 6
     1. ⓔ 7
+10. Name the number 8,165,432,098,710 in words.<br>
+11. Name each number in words: 9,258,137,904,061<br>
+12. Name each number in words: 17,864,325,619,004<br> 
+13. A student conducted research and found that the number of mobile phone users in the United States during one month in 2014 was 327,577,529. Name that number in words.
+14. The population in a country is 316,128,839. Name that number.<br> 
+15. One year is 31,536,000 seconds. Name that number.<br>
 ## The language of Algebra
 
 ## Integers
