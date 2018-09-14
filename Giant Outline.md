@@ -123,7 +123,7 @@ Hierarchial view (Web view will be created)
    Map of mathematics
    https://www.youtube.com/watch?v=OmJ-4B-mS-Y
    
-1. <p>Mathematics is the science of seeking and using patterns in quantity, structure, space, and change. Mathematics can be divided into pure and applied mathematics which rest on a perspective called rationality.<p><br>
-2. Computing is any process that used computers to process information, communicate, and entertain.<br>
-3. Physics is the study of matter and its motion and behavior through space and time<br>
-4. Applications are interdisciplinary subjects with developed methods, tools, and skills to solve practical problems<br>
+1 <p>Mathematics is the science of seeking and using patterns in quantity, structure, space, and change. Mathematics can be divided into pure and applied mathematics which rest on a perspective called rationality.<p><br> 
+2 Computing is any process that used computers to process information, communicate, and entertain.<br>
+3 Physics is the study of matter and its motion and behavior through space and time<br>
+4 Applications are interdisciplinary subjects with developed methods, tools, and skills to solve practical problems<br>
