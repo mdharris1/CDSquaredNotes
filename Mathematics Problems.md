@@ -12,11 +12,11 @@ https://cnx.org/resources/052181a0b3d0669c26497951c334b967da83a8cb/CNX_BMath_Fig
 6. Use place value notation to find the value of the number modeled by the base-10 blocks shown.<br>
 https://cnx.org/resources/4a525dd105f30f98bad3c28ecc419cb72678d7dc/CNX_BMath_Figure_01_01_010_img.jpg
 7. In the number 63,407,218; find the place value of each of the following digits:<br>
-  1. ⓐ 7
-  1. ⓑ 0
-  1. ⓒ 1
-  1. ⓓ 6
-  1. ⓔ 3
+    1. ⓐ 7
+    1. ⓑ 0
+    1. ⓒ 1
+    1. ⓓ 6
+    1. ⓔ 3
 ## The language of Algebra
 
 ## Integers
