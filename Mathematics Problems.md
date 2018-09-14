@@ -1,2 +1,3 @@
 ##### Basic Set Theory and Interval Notation
-^3/_7
+
+\frac{\frac{x}{1}}{x - y}
