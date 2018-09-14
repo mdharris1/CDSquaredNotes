@@ -17,6 +17,18 @@ https://cnx.org/resources/4a525dd105f30f98bad3c28ecc419cb72678d7dc/CNX_BMath_Fig
     1. ⓒ 1
     1. ⓓ 6
     1. ⓔ 3
+8. For each number, find the place value of digits listed: 27,493,615<br>
+    1. ⓐ 2
+    1. ⓑ 1
+    1. ⓒ 4
+    1. ⓓ 7
+    1. ⓔ 5
+9. For each number, find the place value of digits listed: 519,711,641,328<br>
+    1. ⓐ 9
+    1. ⓑ 4
+    1. ⓒ 2
+    1. ⓓ 6
+    1. ⓔ 7
 ## The language of Algebra
 
 ## Integers
