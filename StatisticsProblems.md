@@ -1,4 +1,4 @@
-# Statistics
+# Statistics Problems
 ## Elementary Probability Theory
 1. Describe an elementary event for each of the following single experiments:
 1. For which of the simple experiments listed in excercise 1, might the following events reasonably occur>  
