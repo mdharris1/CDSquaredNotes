@@ -1,3 +1,2 @@
 ##### Basic Set Theory and Interval Notation
-
-\frac{\frac{x}{1}}{x - y}
+Write a roster description for P = {2n | n 2 N} and E = {2n | n 2 Z}
