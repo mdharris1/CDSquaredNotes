@@ -1,6 +1,6 @@
 Hierarchial view (Web view will be created)
 
-1. Mathematics
+1. Mathematics<br>
    1.1. Origins
    1.2. Foundations
       1.1.1. What is Mathematics? (&Philosophy of Math)
