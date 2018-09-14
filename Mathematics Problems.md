@@ -1,6 +1,6 @@
 ## Whole Numbers
 1. Which of the following are ⓐ counting numbers? ⓑ whole numbers?<br>
-0,1/4,3,5.2,15,105
+0,\frac{1}{4},3,5.2,15,105
 ## The language of Algebra
 
 ## Integers
